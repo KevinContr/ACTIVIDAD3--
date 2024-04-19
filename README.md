@@ -95,7 +95,6 @@ En este caso aun no se da la oportunidad de contribuir para hacer clonar como un
 
 ### ROADMAP
 #### FUNCIONALIDAD DE LA PAGINA WEB
-
 ##### CREACION DE LA INTERFAZ
 ![image](https://github.com/KevinContr/ACTIVIDAD3--/assets/157169219/88718f57-9313-4a9e-acde-76742477f469)
 ##### MENÚ Y SERVICIOS 
@@ -118,10 +117,12 @@ En este caso para dar de baja un pedido que se hizo solo se ingresa el nombre de
 A lo contrario en la tabla de la base de datos al ingresar el nombre del cliente a como se registró se da de baja y por ovia razón no aparece en la tabla
 ![image](https://github.com/KevinContr/ACTIVIDAD3--/assets/157169219/c6e36da2-a274-4fb5-a403-e6385de5a558)
 
-
-
-
-
-
+### TABLA DE CONTENIDOS
+[REQUERIMIENTOS](https://github.com/KevinContr/ACTIVIDAD3--/edit/develop/README.md#requerimientos)
+[INSTALACION](https://github.com/KevinContr/ACTIVIDAD3--/edit/develop/README.md#instalacion-de-netbeans-ide-74)
+[CONFIGURACION](https://github.com/KevinContr/ACTIVIDAD3--/edit/develop/README.md#configuraci%C3%B3n)
+[USO](https://github.com/KevinContr/ACTIVIDAD3--/edit/develop/README.md#uso)
+[CONTRIBUCION](https://github.com/KevinContr/ACTIVIDAD3--/edit/develop/README.md#contribucion)
+[ROADMAP](https://github.com/KevinContr/ACTIVIDAD3--/edit/develop/README.md#roadmap)
 
 
