@@ -21,6 +21,7 @@ Para empezar lo que ocupé para hacer mi proyecto de pagina WEB si utlicé vario
 Utilicé esta herramienta ya que es conocida por ser muy dinamica para la elaboraciones de aplicaciones en java, tambien ofrece soportes para otros lenguajes de programacion que son los mismos que utlicé y son HTML, PHP, JavaScrip y C/C++ para asi elaborar mi pagina web mas dinamica.
 
 ![image](https://github.com/KevinContr/ACTIVIDAD3--/assets/157169219/e47b219a-051e-4cb0-9ef5-4232a8f78ac2)
+
 Además de un buen conjunto y conexiones de varias herramientas, tambien la que utilicé mucho para mi base de datos es:
 #### XAMPP
 Además de la elaboracion de la base de datos tiene OpenSSL ya que es para la seguridad de comunicaciones web 
